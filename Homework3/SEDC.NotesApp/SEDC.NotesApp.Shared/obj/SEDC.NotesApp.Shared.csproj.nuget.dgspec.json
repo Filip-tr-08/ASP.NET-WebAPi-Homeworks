@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
         "projectName": "SEDC.NotesApp.Shared",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

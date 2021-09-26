@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj",
         "projectName": "SEDC.NotesApp.DataAccess",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj",
         "projectName": "SEDC.NotesApp.Domain",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,14 +176,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj",
         "projectName": "SEDC.NotesApp.Dtos",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -200,8 +200,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj",
         "projectName": "SEDC.NotesApp.Helpers",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,11 +258,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj"
               }
             }
           }
@@ -317,14 +317,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj",
         "projectName": "SEDC.NotesApp.Mappers",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -341,11 +341,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Domain\\SEDC.NotesApp.Domain.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj"
               }
             }
           }
@@ -378,14 +378,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj",
         "projectName": "SEDC.NotesApp.Services",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -402,17 +402,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.DataAccess\\SEDC.NotesApp.DataAccess.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Mappers\\SEDC.NotesApp.Mappers.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj"
               }
             }
           }
@@ -445,14 +445,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
         "projectName": "SEDC.NotesApp.Shared",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\SEDC.NotesApp.Shared.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -499,14 +499,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj",
         "projectName": "SEDC.NotesApp",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\SEDC.NotesApp.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -523,14 +523,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Dtos\\SEDC.NotesApp.Dtos.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Helpers\\SEDC.NotesApp.Helpers.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj"
               }
             }
           }

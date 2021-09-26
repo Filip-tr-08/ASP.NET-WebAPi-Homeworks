@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UVTWXVCev8kpxGoW1Ms6ti8PEeGbn/mvK8JFQN6GVSX4Mj9tzHUBuDI9AJaeiipjLuw3hv05krsv7O6TnD9wCA==",
+  "dgSpecHash": "gqaEyBtHRPJ6SB03KJojQ24CVZ/jcMRUmeYV8lArsiUTtA2Y6GyIEXPA3kJ3S+P14Qkwx+Er6VyIG1JyulRnOg==",
   "success": true,
-  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net web api domasni\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj",
+  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Homework3\\SEDC.NotesApp\\SEDC.NotesApp.Services\\SEDC.NotesApp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Filip\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Filip\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
