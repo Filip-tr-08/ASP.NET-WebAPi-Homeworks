@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Services\\Services.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Services\\Services.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,8 +184,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Mappers\\Mappers.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Mappers\\Mappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Mappers\\Mappers.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Mappers\\Mappers.csproj",
         "projectName": "Mappers",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Mappers\\Mappers.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Mappers\\Mappers.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Mappers\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Mappers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,11 +242,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj"
               }
             }
           }
@@ -279,14 +279,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Services\\Services.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Services\\Services.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Services\\Services.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Services\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -303,17 +303,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DTOs\\DTOs.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DTOs\\DTOs.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Mappers\\Mappers.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Mappers\\Mappers.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Mappers\\Mappers.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Mappers\\Mappers.csproj"
               },
-              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj"
               }
             }
           }
@@ -352,14 +352,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hRIn2PfRhorWm7JvBwg+IubqAb91ZT61rJ5oY3rTIndZ9Xf222teC2H9aAdfRVBAYI+Xx5RZTQmQg94oON9GqA==",
+  "dgSpecHash": "J3UDIs4n6wRkpgVZaBjYSkkUK5i+zXPbjc/g61T7gZR7pLuGmaHB/U2c9nX8qPfJgscL09bJupYjHngkCWU5mw==",
   "success": true,
-  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\ASP.NET.WebApiClass05Workshop\\ASP.NET.WebApiClass05Workshop.csproj",
+  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\ASP.NET.WebApiClass05Workshop\\ASP.NET.WebApiClass05Workshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Filip\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.1\\microsoft.aspnetcore.authentication.jwtbearer.3.1.1.nupkg.sha512",
     "C:\\Users\\Filip\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

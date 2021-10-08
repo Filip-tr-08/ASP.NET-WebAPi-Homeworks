@@ -22,3 +22,15 @@ E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NE
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

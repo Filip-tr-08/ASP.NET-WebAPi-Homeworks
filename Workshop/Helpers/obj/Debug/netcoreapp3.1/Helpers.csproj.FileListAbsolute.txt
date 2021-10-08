@@ -48,3 +48,28 @@ E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NE
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.dll
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.pdb
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.genruntimeconfig.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Helpers.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Helpers.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Helpers.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Helpers.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Helpers.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\DTOs.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Mappers.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Services.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Shared.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Services.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\DTOs.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Mappers.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\bin\Debug\netcoreapp3.1\Shared.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Helpers\obj\Debug\netcoreapp3.1\Helpers.genruntimeconfig.cache

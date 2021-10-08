@@ -5022,11 +5022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\DataAccess\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5043,8 +5043,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Domain\\Domain.csproj"
+            "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Domain\\Domain.csproj"
             }
           }
         }

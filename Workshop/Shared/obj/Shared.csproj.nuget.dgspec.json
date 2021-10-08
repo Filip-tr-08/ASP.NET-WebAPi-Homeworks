@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\Shared.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Shared\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5123uEA0U2sWNn0NeTwT7VjrxTHMbSNyxqnstdKBxwcusVnwUAZYuB6i1smBrUZj0LDupo0qgwCtoiyiqjqN9A==",
+  "dgSpecHash": "RLr9v/O8k1Ot0cxtFIHdBmHxjw4Yyt0pLZ68LDERW6WcrPGhHSIJVph83OZqfgOyjmK0+x3fbkd/FVujnXVeVw==",
   "success": true,
-  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WEB API casovi\\ASP.NET.WebApiClass11Workshop\\ASP.NET.WebApiClass05Workshop\\Services\\Services.csproj",
+  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET WebApi Homeworks\\ASP.NET-WebAPi-Homeworks\\Workshop\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Filip\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Filip\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

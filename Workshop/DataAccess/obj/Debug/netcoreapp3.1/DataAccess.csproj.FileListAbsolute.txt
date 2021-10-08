@@ -28,3 +28,18 @@ E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NE
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

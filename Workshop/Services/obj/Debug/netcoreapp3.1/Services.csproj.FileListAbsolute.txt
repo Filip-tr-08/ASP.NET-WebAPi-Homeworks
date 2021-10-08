@@ -38,3 +38,23 @@ E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NE
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Services\obj\Debug\netcoreapp3.1\Services.dll
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Services\obj\Debug\netcoreapp3.1\Services.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Services.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Services.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\DTOs.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Mappers.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Shared.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\DTOs.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Mappers.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Shared.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Services\obj\Debug\netcoreapp3.1\Services.pdb

@@ -16,3 +16,12 @@ E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NE
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.dll
 E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\ASP.NET.WebApiClass11Workshop\ASP.NET.WebApiClass05Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WebApi Homeworks\ASP.NET-WebAPi-Homeworks\Workshop\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
