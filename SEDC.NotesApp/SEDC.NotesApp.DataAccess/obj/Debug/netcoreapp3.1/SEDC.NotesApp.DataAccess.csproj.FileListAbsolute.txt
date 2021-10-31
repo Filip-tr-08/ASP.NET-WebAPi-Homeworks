@@ -1,0 +1,15 @@
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.genruntimeconfig.cache

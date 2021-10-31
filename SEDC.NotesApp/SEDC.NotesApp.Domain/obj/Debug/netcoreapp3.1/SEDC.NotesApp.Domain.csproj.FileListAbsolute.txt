@@ -1,0 +1,12 @@
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.genruntimeconfig.cache

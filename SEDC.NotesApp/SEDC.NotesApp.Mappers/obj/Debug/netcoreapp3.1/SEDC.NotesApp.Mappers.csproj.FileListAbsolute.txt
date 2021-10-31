@@ -1,0 +1,14 @@
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb

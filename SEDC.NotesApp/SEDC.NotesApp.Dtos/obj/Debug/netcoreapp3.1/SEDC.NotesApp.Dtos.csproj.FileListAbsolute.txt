@@ -1,0 +1,12 @@
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.deps.json
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+E:\web development\seavus prezentacii i materijali\ASP.NET WEB API casovi\Class13 - Testing\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
